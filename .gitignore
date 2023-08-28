@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/BazorFullStackCrud/Client/obj
+/BazorFullStackCrud/Client/bin/Debug/net7.0
+/BazorFullStackCrud/Server/bin/Debug/net7.0
+/BazorFullStackCrud/Server/obj
+/BazorFullStackCrud/Shared/bin/Debug/net7.0
+/BazorFullStackCrud/Shared/obj
